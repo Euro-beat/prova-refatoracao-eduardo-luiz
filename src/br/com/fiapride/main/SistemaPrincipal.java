@@ -7,7 +7,8 @@ public class SistemaPrincipal {
 
         veiculo veiculo1 = new veiculo("Carlos","ABC-1234",-10,55);
 
-        /*v1.individuo = "Carlos"; // cantinho da vergonha do código original, logo abaixo deste lindo constructor
+        // cantinho da vergonha do código original, logo abaixo deste lindo constructor
+        /*v1.individuo = "Carlos";
         v1.placa = "ABC-1234";
         v1.litrosGasolina = -10; // PERIGO: Valores negativos permitidos!
         v1.abastecerGasolina(50);

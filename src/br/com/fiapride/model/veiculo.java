@@ -42,15 +42,17 @@ public class veiculo {
         return litrosGasolina;
     }
 
-    private void setLitrosGasolina(double litrosGasolina) {
+    // função não necessária no nível que temos agora, mas será chamada no constructor mais tarde no curso
+    /*private void setLitrosGasolina(double litrosGasolina) {
         this.litrosGasolina = litrosGasolina;
-    }
+    }*/
 
     public double getLitrosTanqueCombustivel() {
         return litrosTanqueCombustivel;
     }
 
-    private void setLitrosTanqueCombustivel(double litrosTanqueCombustivel) {
+    // função não necessária no nível que temos agora, mas será chamada no constructor mais tarde no curso
+    /*private void setLitrosTanqueCombustivel(double litrosTanqueCombustivel) {
         this.litrosTanqueCombustivel = litrosTanqueCombustivel;
-    }
+    }*/
 }

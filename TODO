@@ -1,0 +1,10 @@
+incluir validação abastecerGasolina()
+incluir validação consumirGasolina()
+incluir validação setLitrosTanqueCombustivel() -> próxima aula (esquecer)
+incluir validação setLitrosGasolina -> próxima aula (esquecer)
+
+ajustar ambiguidade individuo
+
+chamar setLitrosTanqueCombustivel() dentro do constructor? -> próxima aula (esquecer)
+
+litrosTanqueCombustivel -> litrosTanqueGasolina
